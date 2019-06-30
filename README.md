@@ -1,2 +1,2 @@
 # low-level-programming-in-C
-In this project, I have pushed my projects around low level programming using C language
+This project contains low level programming examples using C language.
